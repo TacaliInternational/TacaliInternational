@@ -1,4 +1,5 @@
-- 👋 Hi, We @TacaliInternational
+- 👋 Hi, We Are @TacaliInternational
+- Twitter https://twitter.com/TacaliCoin
 
 <!---
 TacaliInternational/TacaliInternational is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
