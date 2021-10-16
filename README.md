@@ -4,7 +4,7 @@
 - Github: https://github.com/TacaliInternational
 - Telegram Group: https://t.me/joinchat/bBUKU3i2yKs0Mzk0
 - BitcoinTalk: https://bitcointalk.org/index.php?topic=5365596
-- AltcoinsTalk:https://www.altcoinstalks.com/index.php?topic=237974.0
+- AltcoinsTalks:https://www.altcoinstalks.com/index.php?topic=237974.0
 
 Total Raised So Far: 10 XLM ( Oct 16 2021 )
 
