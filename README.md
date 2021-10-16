@@ -8,14 +8,16 @@
 
 <p align="center"> You can now add TACA in your Stellar wallet easy ... in your wallet search for TACA and add it to assets </p>
 
-![alt text](logo.png)
 
-![alt text](tacalogo.png)
+<p align="center">![alt text](logo.png)</p>
+
+
+<p align="center">![alt text](tacalogo.png)</p>
 
 - What is TacaliCoin [TACA] ?
 - TacaliCoin is a stellar token that gives you access to Tacali future services / products.
 
-![alt text](tacacoin.png)
+<p align="center">![alt text](tacacoin.png)</p>
 
 
 - https://stellar.expert/explorer/public/asset/TACA-GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
