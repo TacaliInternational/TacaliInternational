@@ -4,7 +4,7 @@
 - Github: https://github.com/TacaliInternational
 - You can now add TACA in your Stellar wallet easy ... in your wallet search for TACA and add it to assets 
 - ![alt text](logowhite.png)
-- ![alt text](logowhite.png)
+- ![alt text](tacalogo.png)
 
 
 <!---
