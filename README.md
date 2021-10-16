@@ -14,7 +14,7 @@
 
 - https://stellar.expert/explorer/public/asset/TACA-GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
 
-- What i want is to make a group of companies  that will focus on major industries:
+ What i want is to make a group of companies  that will focus on major industries:
 
  	• Software
 	
