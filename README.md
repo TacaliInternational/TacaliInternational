@@ -15,18 +15,18 @@
 - https://stellar.expert/explorer/public/asset/TACA-GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
 
 - What i want is to make a group of companies  that will focus on major industries:
--- Software
--- Research ( Chemicals / Materials / Devices )
--- Finance
--- Transport
--- Logistics
--- Manufacturing
--- Infrastructure
--- Space
--- Fast Food
--- Farming
--- Security
--- Luxury & Fashion
+ 	• Software
+	• Research ( Chemicals / Materials / Devices )
+	• Finance
+	• Transport
+	• Logistics
+	• Manufacturing
+	• Infrastructure
+	• Space
+	• Fast Food
+	• Farming
+	• Security
+	• Luxury & Fashion
 
 
 And an association to help people.
