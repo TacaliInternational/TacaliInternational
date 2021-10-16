@@ -4,7 +4,7 @@
 - Github: https://github.com/TacaliInternational
 - BitcoinTalk:https://bitcointalk.org/index.php?topic=5365596.0
 
-Total Raised So Far: 5 XLM ( Oct 16 2021 )
+Total Raised So Far: 10 XLM ( Oct 16 2021 )
 
 
 You can now add TACA in your Stellar wallet easy ... in your wallet search for TACA and add it to assets 
