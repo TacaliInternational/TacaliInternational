@@ -4,9 +4,9 @@
 - Github: https://github.com/TacaliInternational
 - BitcoinTalk:https://bitcointalk.org/index.php?topic=5365596.0
 
-<p align="center">
 
-- You can now add TACA in your Stellar wallet easy ... in your wallet search for TACA and add it to assets 
+
+<p align="center"> You can now add TACA in your Stellar wallet easy ... in your wallet search for TACA and add it to assets </p>
 
 ![alt text](logo.png)
 
@@ -66,7 +66,6 @@ We will expand in other sectors / industries in Group 3 when opportunity comes.
 
 ![alt text](how.png)
 
-	</p>
 
 <!---
 TacaliInternational/TacaliInternational is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
