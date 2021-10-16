@@ -12,6 +12,9 @@
 - What is TacaliCoin [TACA] ?
 - TacaliCoin is a stellar token that gives you access to Tacali future services / products.
 
+![alt text](tacacoin.png)
+
+
 - https://stellar.expert/explorer/public/asset/TACA-GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
 
  What i want is to make a group of companies  that will focus on major industries:
@@ -49,10 +52,17 @@ If you buy the token  my recommendation is : Don't sell TacaliCoin , keep it lon
 Business Vision:
 
 Group 1
+![alt text](tacaligroup1.png)
+
 
 Group 2
+![alt text](tacaligroup2.png)
+
 
 We will expand in other sectors / industries in Group 3 when opportunity comes.
+
+![alt text](how.png)
+
 
 <!---
 TacaliInternational/TacaliInternational is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
