@@ -5,8 +5,7 @@
 - BitcoinTalk: https://bitcointalk.org/index.php?topic=5365596
 - AltcoinsTalks:https://www.altcoinstalks.com/index.php?topic=237974.0
 
-Total Raised So Far: 10 XLM ( Oct 16 2021 )
-
+Latest news: https://tacali.space website is online
 
 You can now add TACA in your Stellar wallet easy ... in your wallet search for TACA and add it to assets 
 
