@@ -1,5 +1,4 @@
 - 👋 Hi, We Are @TacaliInternational
-- Twitter https://twitter.com/TacaliCoin
 - Web: https://tacali.space
 - Github: https://github.com/TacaliInternational
 - Telegram Group: https://t.me/joinchat/bBUKU3i2yKs0Mzk0
