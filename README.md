@@ -4,6 +4,7 @@
 - Telegram Group: https://t.me/joinchat/bBUKU3i2yKs0Mzk0
 - BitcoinTalk: https://bitcointalk.org/index.php?topic=5365596
 - AltcoinsTalks:https://www.altcoinstalks.com/index.php?topic=237974.0
+- Nomics: https://nomics.com/assets/taca-tacalicoin
 
 Latest news: https://tacali.space website is online
 
