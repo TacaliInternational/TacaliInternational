@@ -5,6 +5,7 @@
 - BitcoinTalk: https://bitcointalk.org/index.php?topic=5365596
 - AltcoinsTalks:https://www.altcoinstalks.com/index.php?topic=237974.0
 - Nomics: https://nomics.com/assets/taca-tacalicoin
+- Tutorial how to add TACA to Solar wallet : https://www.youtube.com/watch?v=VNybhXnXZY4
 
 Latest news: https://tacali.space website is online
 
