@@ -9,6 +9,7 @@
 - Tutorial how to add TacaliCoin (TACA) to Lobstr wallet: https://www.youtube.com/watch?v=gAoOdKCL0rY
 - Trade TACA on Stellar Dex https://developers.stellar.org/docs/glossary/decentralized-exchange/
 - Trade TACA on: https://scopuly.com/trade/TACA-XLM/GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC/native
+- Trade TACA on  https://interstellar.exchange/app/#/trade/guest/TACA/GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC/XLM/native
 
 Latest news: https://tacali.space website is online
 
