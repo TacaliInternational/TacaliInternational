@@ -10,6 +10,7 @@
 - Trade TACA on Stellar Dex https://developers.stellar.org/docs/glossary/decentralized-exchange/
 - Trade TACA on: https://scopuly.com/trade/TACA-XLM/GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC/native
 - Trade TACA on  https://interstellar.exchange/app/#/trade/guest/TACA/GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC/XLM/native
+- Trade TACA on https://stellarterm.com/exchange/TACA-GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC/XLM-native
 
 Latest news: https://tacali.space website is online
 
