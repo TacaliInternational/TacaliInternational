@@ -11,6 +11,7 @@
 - Trade TACA on: https://scopuly.com/trade/TACA-XLM/GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC/native
 - Trade TACA on  https://interstellar.exchange/app/#/trade/guest/TACA/GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC/XLM/native
 - Trade TACA on https://stellarterm.com/exchange/TACA-GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC/XLM-native
+- Trade [ANN] LOT / HAT / PLUS / LOAN on stellar : https://bitcointalk.org/index.php?topic=5366957.0
 
 Latest news: https://tacali.space website is online
 
