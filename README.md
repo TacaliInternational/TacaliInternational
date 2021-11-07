@@ -17,6 +17,7 @@ Latest news: https://tacali.space website is online
 
 You can now add TACA in your Stellar wallet easy ... in your wallet search for TACA and add it to assets 
 
+You can now buy / sell on the p2p market https://tacali.space/ads.php
 
 ![alt text](logo.png)
 
