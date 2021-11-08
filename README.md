@@ -1,4 +1,8 @@
 - 👋 Hi, We Are @TacaliInternational
+
+Crowdfunding started : 99900000 TACA at 0.00499 XLM / TACA .
+No more price change from Tacali.space until all 99900000 TACA sold / buy buck program will start if we have a successful future.
+
 - Web: https://tacali.space
 - Github: https://github.com/TacaliInternational
 - Telegram Group: https://t.me/joinchat/bBUKU3i2yKs0Mzk0
