@@ -17,6 +17,8 @@ No more price change from Tacali.space until all 99900000 TACA sold / buy buck p
 - Trade TACA on https://stellarterm.com/exchange/TACA-GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC/XLM-native
 - Trade [ANN] LOAN / PLUS / HAT / LOT / YOU / MENU / NET / CHAT / STOP on stellar : https://bitcointalk.org/index.php?topic=5366957.0
 
+- You can now generate your access code: https://tacali.space/codegenerator.php
+
 Latest news: https://tacali.space website is online
 
 You can now add TACA in your Stellar wallet easy ... in your wallet search for TACA and add it to assets 
