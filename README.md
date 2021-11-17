@@ -1,14 +1,6 @@
 - 👋 Hi, We Are @TacaliInternational
 
-Crowdfunding started : 99900000 TACA at 0.00499 XLM / TACA .
-No more price change from Tacali.space until all 99900000 TACA sold / buy buck program will start if we have a successful future.
-
-Latest news:
-TACA burn ended 100 mil left ....no more burns
-
-Latest news: 
-GABT…CTAF transferred 98,000,000 TACA to GDED…TDKC
-Memo (TEXT): November burn .... 900 mil left ....98 mil burned 
+Crowdfunding started for TACA / buy buck program will start if we have a successful future.
 
 - Web: https://tacali.space
 - Github: https://github.com/TacaliInternational
