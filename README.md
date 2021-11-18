@@ -17,6 +17,9 @@ Crowdfunding started for TACA / buy buck program will start if we have a success
 - Trade [ANN] LOAN / PLUS / HAT / LOT / YOU / MENU / NET / CHAT / STOP on stellar : https://bitcointalk.org/index.php?topic=5366957.0
 
 - You can now generate your access code: https://tacali.space/codegenerator.php
+- You can now share and watch videos on tacali.space : https://tacali.space/login.php
+
+
 
 Latest news: https://tacali.space website is online
 
