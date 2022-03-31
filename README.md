@@ -28,6 +28,7 @@ Blockchains TACA is on:
 - Contract: GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
 - Explorer: https://stellar.expert/explorer/public/asset/TACA-GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
 
+
 - Chain: Polygon / Matic
 - Name: TacaliCoin
 - Symbol: TACA
@@ -37,47 +38,48 @@ Blockchains TACA is on:
 - Contract: 0x908E56715c8bD8f8B651FD82b479B05ed78Be477
 - Explorer:https://polygonscan.com/token/0x908e56715c8bd8f8b651fd82b479b05ed78be477
 
-Chain: Avalanche C-Chain
-Name: TacaliCoin
-Symbol: TACA
-Burnable: No
-Trade / Swap: https://www.dextools.io/app/avalanche/pair-explorer/0x1ad34e906b1efe4b9b376c4945e6f1df1b068c09
-Total Supply: 11,000,000 TACA
-Contract: 0x3fB5C2F77a6F4aF74A6a84f85c94D742440Eb491
-Explorer:https://snowtrace.io/token/0x3fb5c2f77a6f4af74a6a84f85c94d742440eb491
+
+- Chain: Avalanche C-Chain
+- Name: TacaliCoin
+- Symbol: TACA
+- Burnable: No
+- Trade / Swap: https://www.dextools.io/app/avalanche/pair-explorer/0x1ad34e906b1efe4b9b376c4945e6f1df1b068c09
+- Total Supply: 11,000,000 TACA
+- Contract: 0x3fB5C2F77a6F4aF74A6a84f85c94D742440Eb491
+- Explorer:https://snowtrace.io/token/0x3fb5c2f77a6f4af74a6a84f85c94d742440eb491
 
 
-Chain: Fantom
-Name: TacaliCoin
-Symbol: TACA
-Burnable: Yes
-Trade / Swap:https://www.dextools.io/app/fantom/pair-explorer/0x9804dad6c1eccba1cf9467b564ea6240a2228af8
-Total Supply: 11,000,000 TACA
-Contract: 0x908E56715c8bD8f8B651FD82b479B05ed78Be477
-Explorer:https://snowtrace.io/token/0x3fb5c2f77a6f4af74a6a84f85c94d742440eb491
+- Chain: Fantom
+- Name: TacaliCoin
+- Symbol: TACA
+- Burnable: Yes
+- Trade / Swap:https://www.dextools.io/app/fantom/pair-explorer/0x9804dad6c1eccba1cf9467b564ea6240a2228af8
+- Total Supply: 11,000,000 TACA
+- Contract: 0x908E56715c8bD8f8B651FD82b479B05ed78Be477
+- Explorer:https://snowtrace.io/token/0x3fb5c2f77a6f4af74a6a84f85c94d742440eb491
 
 
 
-Chain: Cardano
-Name: TacaliCoin
-Symbol: TACA
-Burnable: No
-Trade / Swap: https://exchange.sundaeswap.finance/#/swap?swap_from=cardano.ada&swap_to=053c4b7bdda55b3073e5d428649ba88a529507aac5eb7039b36c7642.54414341
-Total Supply: 11,000,000 TACA
-Fingerprint: asset17qrzxx7m0erxp4ks9ma0pyzy090gevzxyaup7y
-Pool.pm: https://pool.pm/053c4b7bdda55b3073e5d428649ba88a529507aac5eb7039b36c7642.TACA
-Policy Id: https://cardano-native-token.com/policies/pw2wrbv69c00000-mint-policy.json
-Explorer:https://cardanoscan.io/token/053c4b7bdda55b3073e5d428649ba88a529507aac5eb7039b36c7642.TACA
+- Chain: Cardano
+- Name: TacaliCoin
+- Symbol: TACA
+- Burnable: No
+- Trade / Swap: https://exchange.sundaeswap.finance/#/swap?swap_from=cardano.ada&swap_to=053c4b7bdda55b3073e5d428649ba88a529507aac5eb7039b36c7642.54414341
+- Total Supply: 11,000,000 TACA
+- Fingerprint: asset17qrzxx7m0erxp4ks9ma0pyzy090gevzxyaup7y
+- Pool.pm: https://pool.pm/053c4b7bdda55b3073e5d428649ba88a529507aac5eb7039b36c7642.TACA
+- Policy Id: https://cardano-native-token.com/policies/pw2wrbv69c00000-mint-policy.json
+- Explorer:https://cardanoscan.io/token/053c4b7bdda55b3073e5d428649ba88a529507aac5eb7039b36c7642.TACA
 
 
-Chain: Algorand
-Name: TacaliCoin
-Symbol: TACA
-Burnable: No
-Trade / Swap: https://app.tinyman.org/#/swap?asset_in=0&asset_out=606012176
-Total Supply: 11,000,000 TACA
-Asset ID: 606012176 / https://tinychart.org/asset/606012176
-Explorer:https://algoexplorer.io/asset/606012176]https://algoexplorer.io/asset/606012176
+- Chain: Algorand
+- Name: TacaliCoin
+- Symbol: TACA
+- Burnable: No
+- Trade / Swap: https://app.tinyman.org/#/swap?asset_in=0&asset_out=606012176
+- Total Supply: 11,000,000 TACA
+- Asset ID: 606012176 / https://tinychart.org/asset/606012176
+- Explorer:https://algoexplorer.io/asset/606012176]https://algoexplorer.io/asset/606012176
 
 
 
