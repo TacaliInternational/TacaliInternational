@@ -27,7 +27,7 @@ Blockchains TACA is on:
 - Total Supply: 11,000,000 TACA
 - Contract: GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
 - Explorer: https://stellar.expert/explorer/public/asset/TACA-GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
-
+--------------------------------------------------------------------------------
 
 - Chain: Polygon / Matic
 - Name: TacaliCoin
