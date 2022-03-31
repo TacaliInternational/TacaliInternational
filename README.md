@@ -20,9 +20,13 @@ Or you can use it to build your own dapps etc on different blockchains
 Blockchains TACA is on:
 
 Chain: Stellar
+
 Name: TacaliCoin
+
 Symbol: TACA
+
 Burnable: Yes
+
 Trade / Swap: Lobstr / Solar Wallet
 Total Supply: 11,000,000 TACA
 Contract: GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
