@@ -56,7 +56,7 @@ Blockchains TACA is on:
 - Trade / Swap:https://www.dextools.io/app/fantom/pair-explorer/0x9804dad6c1eccba1cf9467b564ea6240a2228af8
 - Total Supply: 11,000,000 TACA
 - Contract: 0x908E56715c8bD8f8B651FD82b479B05ed78Be477
-- Explorer:https://snowtrace.io/token/0x3fb5c2f77a6f4af74a6a84f85c94d742440eb491
+- Explorer:https://ftmscan.com/token/0x908E56715c8bD8f8B651FD82b479B05ed78Be477
 --------------------------------------------------------------------------------
 
 - Chain: Cardano
