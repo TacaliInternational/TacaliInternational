@@ -19,23 +19,23 @@ Or you can use it to build your own dapps etc on different blockchains
 
 Blockchains TACA is on:
 
-Chain: Stellar
-Name: TacaliCoin
-Symbol: TACA
-Burnable: Yes
-Trade / Swap: Lobstr / Solar Wallet
-Total Supply: 11,000,000 TACA
-Contract: GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
-Explorer: https://stellar.expert/explorer/public/asset/TACA-GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
+- Chain: Stellar
+- Name: TacaliCoin
+- Symbol: TACA
+- Burnable: Yes
+- Trade / Swap: Lobstr / Solar Wallet
+- Total Supply: 11,000,000 TACA
+- Contract: GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
+- Explorer: https://stellar.expert/explorer/public/asset/TACA-GDEDZ7GXTLA7I5IG7ZAAJW7VTLM7IWQIQM4NEQTZTWDTJRFYACO3TDKC
 
-Chain: Polygon / Matic
-Name: TacaliCoin
-Symbol: TACA
-Burnable: Yes
-Trade / Swap: https://www.dextools.io/app/polygon/pair-explorer/0x226ae122be640a4de3ab1177c469dfe36b5cdb4e
-Total Supply: 11,000,000 TACA
-Contract: 0x908E56715c8bD8f8B651FD82b479B05ed78Be477
-Explorer:https://polygonscan.com/token/0x908e56715c8bd8f8b651fd82b479b05ed78be477
+- Chain: Polygon / Matic
+- Name: TacaliCoin
+- Symbol: TACA
+- Burnable: Yes
+- Trade / Swap: https://www.dextools.io/app/polygon/pair-explorer/0x226ae122be640a4de3ab1177c469dfe36b5cdb4e
+- Total Supply: 11,000,000 TACA
+- Contract: 0x908E56715c8bD8f8B651FD82b479B05ed78Be477
+- Explorer:https://polygonscan.com/token/0x908e56715c8bd8f8b651fd82b479b05ed78be477
 
 Chain: Avalanche C-Chain
 Name: TacaliCoin
