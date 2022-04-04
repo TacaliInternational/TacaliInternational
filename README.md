@@ -1,8 +1,5 @@
 - 👋 Hi, We Are @TacaliInternational
 
-TACA is now also a trading game ...To win the game you must reach Level 11
-
-Crowdfunding started for TACA / buy buck program will start if we have a successful future.
 
 - Web: https://tacali.space
 - Github: https://github.com/TacaliInternational
